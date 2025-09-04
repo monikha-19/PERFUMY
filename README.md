@@ -1,4 +1,4 @@
-# PERfumy - CSS Project
+# PERFUMY - CSS Project
 
 **Perfumy** is a simple, visually appealing website layout designed for a fictional perfume brand. The project demonstrates how to structure a website using **HTML** and highlights **CSS** for styling, layout, responsiveness, and interactivity. It is ideal for beginners learning front-end development and UI design principles.
 
