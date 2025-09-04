@@ -75,7 +75,7 @@ The website consists of several key sections:
 perfumy/
 │
 ├── index.html          # Main HTML file
-├── style.css           # Styling for the website (CSS highlighted)
+├── style.css           # Styling for the website 
 ├── perfumee_img_1.jpg  # Product image 1
 ├── perfume_img_2.jpg   # Product image 2
 ├── perfumee_img_3.jpg  # Product image 3
@@ -89,7 +89,7 @@ perfumy/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/monikha-19/perfumy.git
+   git clone https://github.com/monikha-19/PERFUMY.git
    ```
 2. Navigate to the project folder:
 
@@ -108,5 +108,5 @@ perfumy/
 
 
 
-This project is open-source and available under the MIT License.
+This project is open-source .
 
